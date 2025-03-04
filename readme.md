@@ -22,7 +22,7 @@ This **Subscription Management API** provides a robust system for handling user 
 To set up the project, follow these steps:
 ```sh
 # Clone the repository
-$ git clone https://github.com/your-repo/subscription-api.git
+$ git clone https://github.com/Silver595/Subscription_API.git
 $ cd subscription-api
 
 # Install dependencies
